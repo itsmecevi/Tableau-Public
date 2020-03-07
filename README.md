@@ -25,9 +25,9 @@
 
 ## 5-Data Preparation
 
-## 6-The logic of charts in Tableau
+## 6-The Logic of Charts in Tableau
 
-## 7-The facebook of data visualization 
+## 7-The Facebook of Data Visualization 
 * -> [Facebook of Tableau Public](https://public.tableau.com/en-us/s/)
 
 
