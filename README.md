@@ -7,7 +7,9 @@
 <span>&#128201;</span>Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
 
-## 1-Business Intelligence 101-Tableau : [Click Here](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
+## 1-Business Intelligence 101-Tableau : 
+
+* -> [Click Here](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 
 ## 2-The Power of Data Visualization
 
@@ -23,9 +25,10 @@
 
 ## 5-Data Preparation
 
-## 6-The logic of charts in Tableau (Basic Charts)
+## 6-The logic of charts in Tableau
 
-## 7-Upload charts on the facebook of data visualization [tableau public](https://public.tableau.com/en-us/s/)
+## 7-The facebook of data visualization 
+* -> [Facebook of Tableau Public](https://public.tableau.com/en-us/s/)
 
 
 ## 8-Extras:
