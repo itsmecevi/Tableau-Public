@@ -27,7 +27,7 @@
 * CSV : [Sample insurance portfolio](https://support.spatialkey.com/spatialkey-sample-csv-data/)
 * Google Sheets : [Google Sheet Sample Data](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
 * Web Data Connectors : [What is that](https://tableau.github.io/webdataconnector/) & [Web Data Connectors Sample](https://tableau.github.io/webdataconnector/Examples/html/earthquakeUSGS.html)
-*  Spatial Files : [Sample Spatial Data](https://github.com/maczokni/crimeMapTest/blob/master/London_Borough_Excluding_MHW.shp)
+* Spatial Files : [Sample Spatial Data](https://github.com/maczokni/crimeMapTest/blob/master/London_Borough_Excluding_MHW.shp)
 * PDF : [Sample PDF Data](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
 
 
@@ -48,6 +48,7 @@
 * 09.10.2019
 * 10.10.2019
 * 07.03.2010
+* 08.03.2020
 
 ### References
 
