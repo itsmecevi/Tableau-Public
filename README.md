@@ -21,6 +21,7 @@
 ## 3-Tableau Public 101 Demo
 
 * Excel vs Tableau : [Data-> Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
+* Tableau Cluster : [World_Bank_CO2](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * Tableau SWOT analysis : [Click Here](https://prezi.com/8p5tcxkfryb1/tableau-software-swot-analysis/)
 * Tableau Public GUI (Graphical User Interface) 
 
