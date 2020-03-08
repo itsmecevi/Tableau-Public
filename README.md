@@ -65,11 +65,16 @@ ____
      * Boolean (TRUE FALSE)
      * Data & Time
      
-* [World_Bank_CO2-> API Version](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
-* [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
-* Data Interpreter 
-* Data Pivoting
-* Splitting
+* Data : [World_Bank_CO2-> API Version](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls) & [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
+       * Data Interpreter 
+       * Data Pivoting
+       * Splitting
+* Manage data properties :
+       * Rename a data field: 
+       * Assign an alias to a data value 
+       * Assign a geographic role to a data field   
+       * Change data type for a data field (number, date, string, boolean, etc.) 
+           
 
 
 ## 6-The logic of charts in Tableau
