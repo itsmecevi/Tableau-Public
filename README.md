@@ -48,13 +48,29 @@ ____
 
 ## 5-Data Preparation
 
+* Data connections :
+
+     * Left Join
+     * Right Join
+     * Inner Join
+     * Full Outer Join
+     * Joins / Blend (horizontal connection)
+     * Union (vertical connection)
+     
+* Tableau data types : 6 different data types
+     * Number
+     * String
+     * Date
+     * Geographics
+     * Boolean (TRUE FALSE)
+     * Data & Time
+     
 * [World_Bank_CO2-> API Version](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
 * [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * Data Interpreter 
 * Data Pivoting
 * Splitting
-* Joins & Unions
-* Formatting
+
 
 ## 6-The logic of charts in Tableau
 
