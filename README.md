@@ -83,6 +83,7 @@ ____
 
 ## 6-Understanding Tableau Concepts for Visualization
 
+* Show Me Tool Bar
 * Dimensions and measures
 * Discrete and continuous fields : 
  
