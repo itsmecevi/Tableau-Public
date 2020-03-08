@@ -26,9 +26,9 @@
 * Excel : [World_Bank_CO2](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * CSV : [Sample insurance portfolio](https://support.spatialkey.com/spatialkey-sample-csv-data/)
 * Google Sheets : [Google Sheet Sample Data](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
+* PDF : [Sample PDF Data](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
 * Web Data Connectors : [What is that](https://tableau.github.io/webdataconnector/) & [Web Data Connectors Sample](https://tableau.github.io/webdataconnector/Examples/html/earthquakeUSGS.html)
 * Spatial Files : [Sample Spatial Data](https://github.com/maczokni/crimeMapTest/blob/master/London_Borough_Excluding_MHW.shp)
-* PDF : [Sample PDF Data](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
 
 
 ## 5-Data Preparation
