@@ -20,6 +20,11 @@
 
 ## 3-Tableau Public 101 Demo
 
+* Excel vs Tableau : [Data-> Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
+* Tableau SWOT analysis : [CLICK HERE](https://prezi.com/8p5tcxkfryb1/tableau-software-swot-analysis/)
+* Tableau Public GUI (Graphical User Interface) 
+
+
 
 ## 4-Connecting to Data
 
