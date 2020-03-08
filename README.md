@@ -48,6 +48,7 @@ ____
 
 ## 5-Data Preparation
 
+* [World_Bank_CO2-> API Version](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * Data Interpreter 
 * Data Pivoting
