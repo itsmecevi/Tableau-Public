@@ -72,10 +72,11 @@ ____
 * Data Pivoting
 * Splitting
 * Manage data properties :
-       * Rename a data field: 
-       * Assign an alias to a data value 
-       * Assign a geographic role to a data field   
-       * Change data type for a data field (number, date, string, boolean, etc.) 
+
+     * Rename a data field: 
+     * Assign an alias to a data value 
+     * Assign a geographic role to a data field   
+     * Change data type for a data field (number, date, string, boolean, etc.) 
            
 
 
