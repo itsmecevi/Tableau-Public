@@ -100,7 +100,40 @@ ____
 
 ### References
 
-* sdsd
-* sds
-* sdsd
+* [Tableau](tableau.com)
+* [Guru99: Tableau](https://www.guru99.com/)
+* [Tutorialspoint: Tableau](https://www.tutorialspoint.com/index.htm)
+* [Tableau Learning Path: AnalyticsVidhya](https://www.analyticsvidhya.com/myfeed/?utm-source=blog&utm-medium=top-icon%2F)
+* [Jumpstart Tableau](https://www.amazon.com/Jumpstart-Tableau-Step-Step-Visualization/dp/1484219333)
+* [Pro Tableau](https://www.amazon.com/Pro-Tableau-Step-Step-Guide/dp/1484223519/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Pro+tableau&qid=1570446674&s=books&sr=1-1)
+* [Rapid Graphs with Tableau](https://www.ebay.com/itm/Rapid-Graphs-with-Tableau-8-The-Original-Guide-for-the-Accidental-An-/273689089070)
+* [Tableau Cookbook](https://www.amazon.com/Tableau-10-Business-Intelligence-Cookbook/dp/1786465639/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=tableau+cookbook&qid=1570460189&s=books&sr=1-2)
+* [Tableau Your Data!](https://www.amazon.com/Tableau-Your-Data-Analysis-Software/dp/1118612043)
+* [Tableau Dashboard Cookbook](https://www.amazon.com/Tableau-Dashboard-Cookbook-Jen-Stirrup/dp/1782177906)
+* [Tableau Visual Guidebook](https://www.tableau.com/visual-guidebook-flowingdata)
+* [Tableau Whitepapers](https://www.tableau.com/learn/whitepapers)
+* [Tableau Public Resources](https://public.tableau.com/en-us/s/resources)
+* [Online Analytical Processing](https://olap.com/)
+* [Datawarehouse for You](https://www.datawarehouse4u.info/)
+* [Pinterest](https://www.pinterest.com/pin/96897829462585916/)
+* [Roosboard](https://roosboard.com/blog/what-diffrence-between-self-and-traditional-BI.html)
+* [EduCBA](https://www.educba.com/excel-vs-tableau/)
+* [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
+* [Open Data Soft](https://www.opendatasoft.com/)
+* [Datapine](https://www.datapine.com)
+* [Evolytics](https://www.evolytics.com)
+* [Grazitti](https://www.grazitti.com)
+* [Tableau Community](https://community.tableau.com/welcome)
+* [Slideshare](https://www.slideshare.net)
+* [Izenda](izenda.com)
+* [Gaston Sanchez](https://www.gastonsanchez.com/)
+* [Evolvetech](http://www.evolvetech.ie/business-intelligence/)
+* [Medium](https://miro.medium.com/max/2864/0*F_gTZfV5EtXm6UVq)
+* [Quora](https://www.quora.com/How-does-self-service-BI-differ-from-traditional-BI)
+* [Tactical Edge](http://www.tacticaledge.us/services/software-development/analytics-and-business-intelligence/)
+* [Digite](https://www.digite.com/blog/waterfall-to-agile-with-kanban/)
+* [Kdnuggets](https://www.kdnuggets.com/2017/01/four-problems-crisp-dm-fix.html)
+* [Researchgate](https://www.researchgate.net/figure/General-architecture-of-the-business-intelligence-process-adapted-from-34_fig1_335781756)
+* [Tableau-Wiki-Cevi](https://trello.com/b/IR0xqNMM/tableau-wiki-cevi)
+
 
