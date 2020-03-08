@@ -88,6 +88,9 @@ ____
      * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are        separate the graphs.
      * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t          separate the graphs.
 * Aggregation / Calculation
+* Sheet
+* Dashboard
+* Story
  
 
 ## 7-The facebook of data visualization 
@@ -108,7 +111,7 @@ ____
 ### References
 
 * [Tableau](tableau.com)
-* [Tableau Desktop 1 Fundamentals](https://www.tableau.com/learn/training/classroom/desktop-i-fundamentals-2020-03-02)
+* [Tableau Desktop 1: Fundamentals](https://www.tableau.com/learn/training/classroom/desktop-i-fundamentals-2020-03-02)
 * [Guru99: Tableau](https://www.guru99.com/)
 * [Tutorialspoint: Tableau](https://www.tutorialspoint.com/index.htm)
 * [Tableau Learning Path: AnalyticsVidhya](https://www.analyticsvidhya.com/myfeed/?utm-source=blog&utm-medium=top-icon%2F)
