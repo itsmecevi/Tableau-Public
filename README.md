@@ -81,6 +81,13 @@ ____
 
 
 ## 6-Understanding Tableau Concepts for Visualization
+
+* Dimensions and measures
+* Discrete and continuous fields : 
+ 
+     * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are        separate the graphs.
+     * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t          separate the graphs.
+* Aggregation / Calculation
  
 
 ## 7-The facebook of data visualization 
