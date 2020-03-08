@@ -50,12 +50,12 @@ ____
 
 * Data connections :
 
-     * Left Join
-     * Right Join
-     * Inner Join
-     * Full Outer Join
-     * Joins / Blend (horizontal connection)
-     * Union (vertical connection)
+     * Left Join : 
+     * Right Join : 
+     * Inner Join : 
+     * Full Outer Join : 
+     * Joins / Blend (horizontal connection) :
+     * Union (vertical connection) :
      
 * Tableau data types : 6 different data types
      * Number
@@ -80,7 +80,8 @@ ____
            
 
 
-## 6-The logic of charts in Tableau
+## 6-The logic of charts in Tableau-Understanding Tableau Concepts 
+ 
 
 ## 7-The facebook of data visualization 
 * -> [Facebook of Tableau Public](https://public.tableau.com/en-us/s/)
