@@ -28,6 +28,15 @@
 
 ## 4-Connecting to Data
 
+* Live connection :
+     * When you have a fast database
+     * When you need up-to-the minute data (real-time)
+* Extract connection (in memory) :
+     * When your database is too slow for interactive analytics
+     * When you need to take load off a transactional database (size of the data)
+     * When you need to be offline (without internet connections)
+____
+
 * Excel : [World_Bank_CO2](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * CSV : [Sample insurance portfolio](https://support.spatialkey.com/spatialkey-sample-csv-data/)
 * Google Sheets : [Google Sheet Sample Data](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
