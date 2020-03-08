@@ -29,10 +29,10 @@
 ## 4-Connecting to Data
 
 
-* ---Live connection--- :
+* ~~Live connection~~ :
      * When you have a fast database
      * When you need up-to-the minute data (real-time)
-* ---Extract connection (in memory)--- :
+* ~~Extract connection (in memory)~~ :
      * When your database is too slow for interactive analytics
      * When you need to take load off a transactional database (size of the data)
      * When you need to be offline (without internet connections)
