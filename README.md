@@ -48,6 +48,8 @@ ____
 
 ## 5-Data Preparation
 
+* Data Interpreter : [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
+
 ## 6-The logic of charts in Tableau
 
 ## 7-The facebook of data visualization 
