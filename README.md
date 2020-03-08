@@ -48,7 +48,12 @@ ____
 
 ## 5-Data Preparation
 
-* Data Interpreter : [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
+* [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
+* Data Interpreter 
+* Data Pivoting
+* Splitting
+* Joins & Unions
+* Formatting
 
 ## 6-The logic of charts in Tableau
 
