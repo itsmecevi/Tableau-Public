@@ -48,14 +48,14 @@ ____
 
 ## 5-Data Preparation
 
-* Data connections :
+* Data connections : [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 
+     
+     * Joins / Blend / Inner Join (horizontal connection) : CO2(Per Capita) Pivoted & CO2(kt) Pivoted
+     * Union (vertical connection) : [Sample PDF Data](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
      * Left Join : 
      * Right Join : 
-     * Inner Join : 
      * Full Outer Join : 
-     * Joins / Blend (horizontal connection) :
-     * Union (vertical connection) :
      
 * Tableau data types : 6 different data types
      * Number
