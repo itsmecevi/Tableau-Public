@@ -70,7 +70,7 @@ ____
 
 * Data Interpreter : API Version
 * Data Pivoting : Raw Data
-* Splitting : API Version
+* Splitting : API Version-Inicator Name
 * Manage data properties :
 
      * Rename a data field: 
