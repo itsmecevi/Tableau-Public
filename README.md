@@ -70,7 +70,7 @@ ____
 
 * Data Interpreter : API Version
 * Data Pivoting : Raw Data
-* Splitting : API Version-Inicator Name
+* Splitting : API Version-Indicator Name
 * Manage data properties :
 
      * Rename a data field: 
@@ -80,7 +80,7 @@ ____
            
 
 
-## 6-The logic of charts in Tableau-Understanding Tableau Concepts 
+## 6-Understanding Tableau Concepts for Visualization
  
 
 ## 7-The facebook of data visualization 
