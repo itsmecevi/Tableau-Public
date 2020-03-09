@@ -41,7 +41,7 @@ ____
 
 * Excel : [World_Bank_CO2](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * CSV : [Sample insurance portfolio](https://support.spatialkey.com/spatialkey-sample-csv-data/)
-* Google Sheets : [Google Sheet Sample Data](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
+* Google Sheets : [Your Google Sheet](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
 * PDF : [Sample PDF Data](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
 * Web Data Connectors : [What is that](https://tableau.github.io/webdataconnector/) & [Web Data Connectors Sample](https://tableau.github.io/webdataconnector/Examples/html/earthquakeUSGS.html)
 * Spatial Files : [Sample Spatial Data](https://github.com/maczokni/crimeMapTest/blob/master/London_Borough_Excluding_MHW.shp)
@@ -54,18 +54,11 @@ ____
      
      * Joins / Blend / Inner Join (horizontal connection) : CO2(Per Capita) Pivoted & CO2(kt) Pivoted
      * Union (vertical connection) : [Sample PDF Data](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
-     * Left Join : 
-     * Right Join : 
-     * Full Outer Join : 
+     * Left Join, Right Join, Full Outer Join
+  
      
-* Tableau data types : 6 different data types
-     * Number
-     * String
-     * Date
-     * Geographics
-     * Boolean (TRUE FALSE)
-     * Data & Time
- 
+* Tableau data types : 6 different data types (Number, String, Date, Geographics,  Boolean (TRUE FALSE), Data & Time)
+   
 
 * Data : [World_Bank_CO2-> API Version](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls) & [World_Bank_CO2-> Raw Data](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * Data Interpreter : API Version
