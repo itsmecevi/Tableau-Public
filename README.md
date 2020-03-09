@@ -90,7 +90,7 @@ ____
 * Story
  
 
-## 7-The facebook of data visualization 
+## 7-The Facebook of Data Visualization 
 * -> [Facebook of Tableau Public](https://public.tableau.com/en-us/s/)
 
 
@@ -104,6 +104,7 @@ ____
 * 10.10.2019
 * 07.03.2010
 * 08.03.2020
+* 09.03.2020
 
 ### References
 
