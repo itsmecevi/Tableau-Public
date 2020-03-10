@@ -86,7 +86,7 @@ ____
      * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t          separate the graphs.
 * **"Aggregation / Calculation"**
 * Sheet
-* Dashboard
+* Dashboard (Filter, Actions, & Formatting)
 * Story
  
 
